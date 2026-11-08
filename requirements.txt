@@ -1,0 +1,14 @@
+pandas>=2.0
+numpy
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+xgboost
+shap
+rapidfuzz
+openpyxl
+jupyter
+ipykernel
+python-pptx
