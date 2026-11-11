@@ -1,0 +1,14 @@
+,Other lenders %,SBLCs %
+product: Community Advantage,14.0,18.8
+product: Express,8.2,27.4
+product: Other,7.9,10.0
+product: PLP,6.3,6.3
+size_band: <=50k,9.6,26.4
+size_band: 50-150k,8.6,8.9
+size_band: 150-350k,6.8,8.6
+size_band: 350k-1M,5.0,6.9
+size_band: >1M,3.7,4.7
+no_collateral: False,6.5,6.8
+no_collateral: True,10.5,26.0
+startup: False,7.1,14.8
+startup: True,9.2,18.3
