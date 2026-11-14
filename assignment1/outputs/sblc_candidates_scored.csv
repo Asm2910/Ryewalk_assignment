@@ -1,17 +1,17 @@
 bankname,loans,gross_usd_m,median_loan,n_borrower_states,has_fdic,has_ncua,ca_share,plp_share,express_share,first_fy,last_fy,n_location_ids,depository,excluded,pts_name,pts_neg_name,pts_bank_name,pts_footprint,pts_ca,pts_commercial,pts_scale,score,external_source,external_match,tier
-"First Western SBLC, Inc",295,462.5724,1364000.0,34,False,False,0.0,0.8779661016949153,0.0,2010,2019,1,False,False,3,0,0,2,1,1,1,8,Funderintel license-holder roster,True,1-Confirmed
-"Newtek Small Business Finance, Inc.",2874,2445.2552,405500.0,52,False,False,0.0,0.9133611691022965,0.010786360473208072,2010,2019,1,False,False,2,0,0,2,1,1,1,7,CU Times 2003 SBA roster,True,1-Confirmed
-"Hana Small Business Lending, Inc.",671,624.4304,528000.0,20,False,False,0.0,0.8614008941877794,0.0,2010,2019,1,False,False,2,0,0,2,1,1,1,7,,False,2-Likely
-"CRF Small Business Loan Company, LLC",494,247.4161,300000.0,43,False,False,0.020242914979757085,0.6720647773279352,0.0,2010,2019,1,False,False,2,0,0,2,1,1,1,7,Funderintel license-holder roster,True,1-Confirmed
-"Harvest Small Business Finance, LLC",478,607.8238,927300.0,34,False,False,0.0,0.8807531380753139,0.0,2010,2019,1,False,False,2,0,0,2,1,1,1,7,Funderintel license-holder roster,True,1-Confirmed
-"Centerstone SBA Lending, Inc.",205,253.6373,850000.0,14,False,False,0.0,0.8,0.0,2016,2019,1,False,False,2,0,0,2,1,1,1,7,Coleman Report 2015 / Funderintel,True,1-Confirmed
-"CapitalSpring SBLC, LLC",15,17.261,483000.0,8,False,False,0.0,0.4,0.0,2012,2015,1,False,False,3,0,0,1,1,1,0,6,Name contains SBLC,True,1-Confirmed
-"Readycap Lending, LLC",975,963.456,662000.0,47,False,False,0.0,0.8235897435897436,0.0,2010,2019,1,False,False,0,0,0,2,1,1,1,5,Coleman Report 2015 / Funderintel,True,1-Confirmed
-"VelocitySBA, LLC",5008,130.9223,10000.0,51,False,False,0.0,0.008386581469648562,0.9361022364217252,2010,2019,1,False,False,0,0,0,2,1,0,1,4,Funderintel license-holder roster,True,1-Confirmed
-"Lendistry SBLC, LLC",140,28.71,219000.0,5,False,False,0.9928571428571429,0.007142857142857143,0.0,2017,2019,1,False,False,3,0,0,1,-2,1,1,4,Funderintel license-holder roster,True,1-Confirmed
-"Grow America Fund, Incorporated",268,154.2251,315000.0,14,False,False,0.0,0.8507462686567164,0.0,2010,2019,1,False,False,0,-2,0,2,1,1,1,3,Funderintel license-holder roster,True,1-Confirmed
+"First Western SBLC, Inc",295,462.5724,1364000.0,34,False,False,0.0,0.8779661016949153,0.0,2010,2019,1,False,False,3,0,0,2,1,1,1,8,CU Times 2003 / Funderintel 2026,True,1-Confirmed
+"Newtek Small Business Finance, Inc.",2874,2445.2552,405500.0,52,False,False,0.0,0.9133611691022965,0.010786360473208072,2010,2019,1,False,False,2,0,0,2,1,1,1,7,CU Times 2003 / Coleman 2015,True,1-Confirmed
+"Hana Small Business Lending, Inc.",671,624.4304,528000.0,20,False,False,0.0,0.8614008941877794,0.0,2010,2019,1,False,False,2,0,0,2,1,1,1,7,Coleman 2015,True,1-Confirmed
+"CRF Small Business Loan Company, LLC",494,247.4161,300000.0,43,False,False,0.020242914979757085,0.6720647773279352,0.0,2010,2019,1,False,False,2,0,0,2,1,1,1,7,Coleman 2015 / Funderintel 2026,True,1-Confirmed
+"Harvest Small Business Finance, LLC",478,607.8238,927300.0,34,False,False,0.0,0.8807531380753139,0.0,2010,2019,1,False,False,2,0,0,2,1,1,1,7,Funderintel 2026,True,1-Confirmed
+"Centerstone SBA Lending, Inc.",205,253.6373,850000.0,14,False,False,0.0,0.8,0.0,2016,2019,1,False,False,2,0,0,2,1,1,1,7,Funderintel 2026,True,1-Confirmed
+"CapitalSpring SBLC, LLC",15,17.261,483000.0,8,False,False,0.0,0.4,0.0,2012,2015,1,False,False,3,0,0,1,1,1,0,6,Coleman 2015 (as 'Capital Spring'),True,1-Confirmed
+"Readycap Lending, LLC",975,963.456,662000.0,47,False,False,0.0,0.8235897435897436,0.0,2010,2019,1,False,False,0,0,0,2,1,1,1,5,Coleman 2015 / Funderintel 2026,True,1-Confirmed
+"VelocitySBA, LLC",5008,130.9223,10000.0,51,False,False,0.0,0.008386581469648562,0.9361022364217252,2010,2019,1,False,False,0,0,0,2,1,0,1,4,Funderintel 2026,True,1-Confirmed
+"Lendistry SBLC, LLC",140,28.71,219000.0,5,False,False,0.9928571428571429,0.007142857142857143,0.0,2017,2019,1,False,False,3,0,0,1,-2,1,1,4,Funderintel 2026,True,1-Confirmed
+"Grow America Fund, Incorporated",268,154.2251,315000.0,14,False,False,0.0,0.8507462686567164,0.0,2010,2019,1,False,False,0,-2,0,2,1,1,1,3,CU Times 2003 / Coleman 2015 / Funderintel 2026,True,1-Confirmed
 ACC Capital,137,67.8517,250000.0,3,False,False,0.0,0.18248175182481752,0.0948905109489051,2010,2019,1,False,False,0,0,0,0,1,1,1,3,,False,3-Possible
-Loan Source Incorporated,42,41.845,800000.0,5,False,False,0.0,0.9523809523809523,0.0,2010,2019,1,False,False,0,0,0,1,1,1,0,3,CU Times 2003 SBA roster,True,1-Confirmed
+Loan Source Incorporated,42,41.845,800000.0,5,False,False,0.0,0.9523809523809523,0.0,2010,2019,1,False,False,0,0,0,1,1,1,0,3,CU Times 2003 / Coleman 2015,True,1-Confirmed
 Port 51 Lending LLC,6,5.955,402500.0,6,False,False,0.0,0.0,0.0,2019,2019,1,False,False,0,0,0,1,1,1,0,3,,False,3-Possible
 "Alaska Growth Capital BIDCO, Inc.",223,228.0995,450000.0,5,False,False,0.0,0.7847533632286996,0.0,2010,2019,1,False,False,0,-2,0,1,1,1,1,2,,False,4-Not SBLC
 "BizCapital BIDCO I, LLC",87,185.9919,1873000.0,15,False,False,0.0,0.0,0.0,2011,2019,1,False,False,0,-2,0,2,1,1,0,2,,False,4-Not SBLC

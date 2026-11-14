@@ -1,13 +1,13 @@
 bankname,tier,score,external_source,loans,gross_usd_m
-"VelocitySBA, LLC",1-Confirmed,4,Funderintel license-holder roster,5008,130.9223
-"Newtek Small Business Finance, Inc.",1-Confirmed,7,CU Times 2003 SBA roster,2874,2445.2552
-"Readycap Lending, LLC",1-Confirmed,5,Coleman Report 2015 / Funderintel,975,963.456
-"Hana Small Business Lending, Inc.",2-Likely,7,,671,624.4304
-"CRF Small Business Loan Company, LLC",1-Confirmed,7,Funderintel license-holder roster,494,247.4161
-"Harvest Small Business Finance, LLC",1-Confirmed,7,Funderintel license-holder roster,478,607.8238
-"First Western SBLC, Inc",1-Confirmed,8,Funderintel license-holder roster,295,462.5724
-"Grow America Fund, Incorporated",1-Confirmed,3,Funderintel license-holder roster,268,154.2251
-"Centerstone SBA Lending, Inc.",1-Confirmed,7,Coleman Report 2015 / Funderintel,205,253.6373
-"Lendistry SBLC, LLC",1-Confirmed,4,Funderintel license-holder roster,140,28.71
-Loan Source Incorporated,1-Confirmed,3,CU Times 2003 SBA roster,42,41.845
-"CapitalSpring SBLC, LLC",1-Confirmed,6,Name contains SBLC,15,17.261
+"VelocitySBA, LLC",1-Confirmed,4,Funderintel 2026,5008,130.9223
+"Newtek Small Business Finance, Inc.",1-Confirmed,7,CU Times 2003 / Coleman 2015,2874,2445.2552
+"Readycap Lending, LLC",1-Confirmed,5,Coleman 2015 / Funderintel 2026,975,963.456
+"Hana Small Business Lending, Inc.",1-Confirmed,7,Coleman 2015,671,624.4304
+"CRF Small Business Loan Company, LLC",1-Confirmed,7,Coleman 2015 / Funderintel 2026,494,247.4161
+"Harvest Small Business Finance, LLC",1-Confirmed,7,Funderintel 2026,478,607.8238
+"First Western SBLC, Inc",1-Confirmed,8,CU Times 2003 / Funderintel 2026,295,462.5724
+"Grow America Fund, Incorporated",1-Confirmed,3,CU Times 2003 / Coleman 2015 / Funderintel 2026,268,154.2251
+"Centerstone SBA Lending, Inc.",1-Confirmed,7,Funderintel 2026,205,253.6373
+"Lendistry SBLC, LLC",1-Confirmed,4,Funderintel 2026,140,28.71
+Loan Source Incorporated,1-Confirmed,3,CU Times 2003 / Coleman 2015,42,41.845
+"CapitalSpring SBLC, LLC",1-Confirmed,6,Coleman 2015 (as 'Capital Spring'),15,17.261
