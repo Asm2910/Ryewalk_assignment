@@ -1,0 +1,43 @@
+{
+ "selected_features": [
+  "rate_vs_year",
+  "lender_te",
+  "naics3_te",
+  "log_amount",
+  "lender_log_volume",
+  "revolving",
+  "variable_rate",
+  "state_TX",
+  "out_of_state_lender",
+  "has_collateral",
+  "biz_age_Existing 2y+",
+  "amount_per_job_log",
+  "jobs_log",
+  "state_FL",
+  "franchise",
+  "guarantee_pct",
+  "biz_type_PARTNERSHIP",
+  "product_Preferred Lenders Program",
+  "state_CA",
+  "sector_54",
+  "state_IL",
+  "sector_48",
+  "state_WA",
+  "state_MI",
+  "sector_42",
+  "state_PR",
+  "state_ID",
+  "state_OK",
+  "state_NY",
+  "state_CO"
+ ],
+ "params": {
+  "num_leaves": 63,
+  "learning_rate": 0.03,
+  "min_child_samples": 300,
+  "subsample": 0.85,
+  "colsample_bytree": 0.6,
+  "reg_lambda": 0.0
+ },
+ "n_trees": 314
+}

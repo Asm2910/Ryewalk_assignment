@@ -1,0 +1,4 @@
+policy,loans reviewed %,bad loans caught %,lender loss covered %,net benefit $m
+Expected-saving rule (review if saving > cost),38.98854502047879,46.95710009976721,75.7033124355273,8.836052514700002
+"Same number of loans, ranked by probability only",38.98854502047879,72.96308613235783,55.870254225192376,4.1893591646
+"Same number of loans, picked at random",38.98854502047879,39.10874625872963,40.85838350835077,0.6722233254000004

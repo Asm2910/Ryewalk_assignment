@@ -1,0 +1,42 @@
+{
+ "train_medians": {
+  "log_amount": 5.09691,
+  "rate": 6.0,
+  "variable_rate": 1.0,
+  "rate_vs_year": 0.0,
+  "guarantee_pct": 0.5,
+  "jobs_log": 1.609438,
+  "no_jobs": 0.0,
+  "amount_per_job_log": 4.39794,
+  "has_collateral": 1.0,
+  "revolving": 0.0,
+  "franchise": 0.0,
+  "out_of_state_lender": 1.0,
+  "rate_missing": 0.0,
+  "naics3_te": 0.080172,
+  "lender_te": 0.073123,
+  "lender_log_volume": 3.312177,
+  "lender_seen": 1.0,
+  "lender_is_sblc": 0.0
+ },
+ "caps": {
+  "jobs_log": [
+   0.0,
+   4.8283137373023015
+  ],
+  "amount_per_job_log": [
+   2.8973376581028525,
+   6.243038048686294
+  ],
+  "rate_vs_year": [
+   -3.0999999999999996,
+   4.25
+  ],
+  "log_amount": [
+   3.6989700043360187,
+   6.6495573039561044
+  ]
+ },
+ "target": "bad = charge-off amount > 0",
+ "split": "train FY2014-17, valid FY2018, test FY2019"
+}

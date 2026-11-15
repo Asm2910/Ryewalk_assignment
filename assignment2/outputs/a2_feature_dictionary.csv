@@ -1,0 +1,98 @@
+feature,group,single_feature_auc,higher_value_means
+log_amount,loan,0.5879757676053482,down
+variable_rate,loan,0.5459593345009575,up
+rate_vs_year,loan,0.6591243169523117,up
+guarantee_pct,loan,0.5018751415115603,up
+has_collateral,loan,0.5617523298621592,down
+revolving,loan,0.5286506947560023,up
+rate_missing,loan,0.5000101261721044,down
+jobs_log,borrower,0.5214578428875273,down
+no_jobs,borrower,0.5006147607696635,down
+amount_per_job_log,borrower,0.5738436480095765,down
+franchise,borrower,0.5128573265117515,up
+biz_age_Existing 2y+,borrower,0.5410058665980224,down
+biz_age_Startup,borrower,0.5132870646059174,up
+biz_age_Unanswered,borrower,0.508447233499303,up
+biz_age_Under 2y,borrower,0.5192715684928021,up
+biz_type_CORPORATION,borrower,0.5006989069755227,down
+biz_type_INDIVIDUAL,borrower,0.5050490496470516,up
+biz_type_PARTNERSHIP,borrower,0.5043978022252325,down
+biz_type_Unknown,borrower,0.5000476595537034,up
+naics3_te,industry_geo,0.5801548924241687,up
+out_of_state_lender,industry_geo,0.5543608849404909,up
+sector_11,industry_geo,0.5041996822235075,down
+sector_23,industry_geo,0.5033108487481139,up
+sector_31,industry_geo,0.5012372906996605,down
+sector_32,industry_geo,0.5011700616571925,down
+sector_33,industry_geo,0.503455208695081,down
+sector_42,industry_geo,0.5039354680142124,up
+sector_44,industry_geo,0.5010958034180502,up
+sector_45,industry_geo,0.5047962532633055,up
+sector_48,industry_geo,0.5102238847178862,up
+sector_51,industry_geo,0.5007607273814306,up
+sector_52,industry_geo,0.5043783165664408,down
+sector_53,industry_geo,0.5036747442773242,down
+sector_54,industry_geo,0.5030042258869538,down
+sector_56,industry_geo,0.5003612213683432,up
+sector_61,industry_geo,0.5002875545198842,up
+sector_62,industry_geo,0.5181028262796827,down
+sector_71,industry_geo,0.5054760086783622,up
+sector_72,industry_geo,0.5055940954872535,up
+sector_81,industry_geo,0.5028086540720931,up
+sector_Other,industry_geo,0.5005718366169085,up
+state_AL,industry_geo,0.5016042722102059,up
+state_AR,industry_geo,0.5001111448014968,down
+state_AZ,industry_geo,0.5007474964464123,down
+state_CA,industry_geo,0.5000878417486734,up
+state_CO,industry_geo,0.5022574967367419,down
+state_CT,industry_geo,0.5014991912627809,down
+state_FL,industry_geo,0.5125466347666409,up
+state_GA,industry_geo,0.5008217739252205,up
+state_HI,industry_geo,0.5005903241035086,up
+state_IA,industry_geo,0.5002350775676083,down
+state_ID,industry_geo,0.5019303318675139,down
+state_IL,industry_geo,0.5022380290960503,up
+state_IN,industry_geo,0.5019153102693031,down
+state_KS,industry_geo,0.5006451875378374,down
+state_KY,industry_geo,0.5001394199336985,down
+state_LA,industry_geo,0.5007465072832707,up
+state_MA,industry_geo,0.502763640277845,down
+state_MD,industry_geo,0.501053185725688,up
+state_ME,industry_geo,0.5014875433247195,down
+state_MI,industry_geo,0.5054419231670525,down
+state_MN,industry_geo,0.5043961095927187,down
+state_MO,industry_geo,0.5003462371805939,up
+state_MS,industry_geo,0.5006850325805663,down
+state_MT,industry_geo,0.5012045631117558,down
+state_NC,industry_geo,0.5009377503259954,up
+state_NE,industry_geo,0.5010892057395971,down
+state_NH,industry_geo,0.5015055852450883,down
+state_NJ,industry_geo,0.5035074315616102,up
+state_NV,industry_geo,0.500689499847758,up
+state_NY,industry_geo,0.504144324818391,up
+state_OH,industry_geo,0.5035090565499015,down
+state_OK,industry_geo,0.5002068920678184,down
+state_OR,industry_geo,0.5018118787414912,down
+state_Other,industry_geo,0.5034828822059834,down
+state_PA,industry_geo,0.501092072602515,down
+state_PR,industry_geo,0.5006415507828912,down
+state_RI,industry_geo,0.5008615867491439,down
+state_SC,industry_geo,0.5007317635913456,up
+state_TN,industry_geo,0.5006055191641042,up
+state_TX,industry_geo,0.5189245324079853,up
+state_UT,industry_geo,0.5020160367917041,down
+state_VA,industry_geo,0.501839847565996,up
+state_WA,industry_geo,0.5055109924988355,down
+state_WI,industry_geo,0.5042282668700173,down
+product_7a General,product,0.5067749785403515,down
+product_Certified Lenders Program,product,0.500971988074979,down
+product_Community Advantage Initiative,product,0.5059567123421589,up
+product_Other,product,0.5023315221148483,down
+product_Preferred Lenders Program,product,0.5294646120262182,down
+product_SBA Express Program,product,0.5194110275166154,up
+product_Small Loan Advantage Initiative,product,0.5159786874549168,up
+product_Standard Asset Base Working Capital Line of Credit (CAPLine),product,0.501803326557294,down
+lender_te,lender,0.666847551287034,up
+lender_log_volume,lender,0.5701437802405633,up
+lender_seen,lender,,
+lender_is_sblc,lender,0.500209070883636,up
